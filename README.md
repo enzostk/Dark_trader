@@ -16,3 +16,6 @@ then classify them in an array containing as many hashes as collected data.     
 ![rendu2](https://user-images.githubusercontent.com/97508821/151449291-04e0df1f-ca6b-45ef-8d85-aaecea1abca1.png)
 
 # Final result 
+
+![rendu3](https://user-images.githubusercontent.com/97508821/151450697-d7c108cd-cfcc-4d0b-a748-d87eff87a510.png)
+![rendu4](https://user-images.githubusercontent.com/97508821/151450710-d4b22266-6be1-44c7-a3d1-0331c8c7f005.png)
